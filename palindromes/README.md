@@ -32,7 +32,7 @@
   and returns a new ArrayList<String> that contains all the palindromes contained within the given ArrayList. </br>
   </br>
   There are many different ways to complete this problem!
-  <br>
+  </br>
 
 When contributing to this repo, just include your singular Class file in this plalindromes folder,</br>
 and make sure your Class file has a unique name. Please also push changes to a new branch</br>
