@@ -28,7 +28,7 @@
     }};
   ```
   
-  Copy and paste this ArrayList into a new Class. Your task, is to create a method that takes in an ArrayList<String> as a parameter </br>
+  Copy and paste this ArrayList and use it for testing. Your task, is to create a method that takes in an ArrayList<String> as a parameter </br>
   and returns a new ArrayList<String> that contains all the palindromes contained within the given ArrayList. </br>
 
 When contributing to this repo, just include your singular Class file in this plalindromes folder, and make sure your Class file has a unique name.</br>
