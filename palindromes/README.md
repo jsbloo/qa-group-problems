@@ -38,4 +38,4 @@ When contributing to this repo, just include your singular Class file in this pl
 and make sure your Class file has a unique name. Please also push changes to a new branch</br>
 Try to complete your own solution before looking at the others.
 
-Ask on discord @Josh if you need help with git / java
+Ask on discord ```@Josh``` if you need help with git / java
