@@ -1,3 +1,5 @@
+//Josh: Can you think of a faster solution? iterating less times
+
 package Palindrome;
 
 import java.util.ArrayList;
